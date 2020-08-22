@@ -1,0 +1,21 @@
+{
+  "name": "teste-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "Willy Christian",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "swr": "^0.3.0"
+  }
+}
