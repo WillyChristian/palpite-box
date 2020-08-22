@@ -19,6 +19,7 @@ const Index = () => {
     return (
       <>
         <div className="body_section">
+          <h1>Loading...</h1>
           <pre>{JSON.stringify(data)}</pre>
         </div>
       </>
